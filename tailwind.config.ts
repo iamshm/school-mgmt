@@ -9,6 +9,12 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
+        mySky: "#C3EBFA",
+        mySkyLight: "#EDF9FD",
+        myPurple: "#CFCEFF",
+        myPurpleLight: "#F1F0FF",
+        myYellow: "#FAE27C",
+        myYellowLight: "#FEFCE8",
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
